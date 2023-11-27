@@ -1,0 +1,35 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+
+
+.footer {
+  width: 100%;
+  background-color: #1a202c;
+  color: white;
+  text-align: center;
+}
+
+.card{
+  border: 2px double #1a202c;
+  border-radius: 20px;
+}
+
+th, td {
+  text-align: center;
+  padding: 8px;
+  border: 1px solid #1a202c;
+  
+}
+
+.tableStyle{
+  border: 1px solid #1a202c;
+  max-height: 70vh;
+}
+
+.popup{
+  top: 35%;
+  left: 35%;
+}
